@@ -123,7 +123,6 @@ An Agent Skills marketplace: vendor-neutral skill packages that teach AI agents 
 - `targetbay-email-sms` — planning, targeting, sequencing, and optimizing email and SMS
 - `targetbay-reviews` — when to ask for a review, which products lack proof, where proof belongs
 - `targetbay-loyalty` — what a point is worth, where tier thresholds go, which members are leaving
-- `targetbay-personalization` — which surfaces to personalize, who sees what, how to prove a change
 
 ```
 /plugin marketplace add targetbay360/targetbay-agent-skills
